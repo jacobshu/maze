@@ -2,8 +2,8 @@ from maze import Maze
 from window import Window
 
 def main():
-    num_rows = 8
-    num_cols = 8
+    num_rows = 4
+    num_cols = 4
     margin = 50
     cell_size = 50
     screen_x = (cell_size * num_cols) + (2 * margin)
